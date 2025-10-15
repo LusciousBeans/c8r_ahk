@@ -24,7 +24,7 @@ Click on the setup .exe file, and do the instructions there.
 
 3\. System setup
 
-You do not really have to touch the 'scripts' folder, but that's where the scripts will be stored. Double-click on any of them to activate them. On the system tray, you can exit out any scripts that you don't want anymore.
+The 'scripts' folder contains all the AHK scripts you need. Do **NOT** touch them or the folder. Double-click on any of them to activate them. On the system tray, you can exit out any scripts that you don't want anymore.
 
 
 
