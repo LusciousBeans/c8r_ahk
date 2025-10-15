@@ -6,13 +6,13 @@
 
 
 
-1\. Introduction
+**1\. Introduction**
 
 Hello to the Respondent who is reading this, welcome to my tutorial on how to set up C8R's primary AHK system. Follow the exact steps in here, and you should be good.
 
 
 
-2\. AHK Installation
+**2\. AHK Installation**
 
 If you haven't already, download AutoHotKey from https://www.autohotkey.com/
 
@@ -22,7 +22,7 @@ Click on the setup .exe file, and do the instructions there.
 
 
 
-3\. System setup
+**3\. System setup**
 
 The 'scripts' folder contains all the AHK scripts you need. Do **NOT** touch them or the folder. Double-click on any of them to activate them. On the system tray, you can exit out any scripts that you don't want anymore.
 
@@ -39,11 +39,11 @@ You should be good to go to use the overlay.
 
 
 
-4\. Enjoy. The following text will explain each of the scripts and what they do:
+**4\. Enjoy. The following text will explain each of the scripts and what they do:**
 
 --------------------------------------------------------------------------------------------------
 
-1. location\_index.ahk
+**1. location\_index.ahk**
 
 This script is responsible for replacing any default location names you may say (like plaza or nexus) into our codenames. So for example, if you were to type in: "plaza", it would immediately autocorrect to "HOTEL".
 
@@ -53,7 +53,7 @@ To toggle this, press F1. If you hear a high-pitched noise, that means it is act
 
 
 
-2\. terminology.ahk
+**2\. terminology.ahk**
 
 This script is responsible for setting your Numpad as a built-in terminology placer that makes you say standard faction terminology in the Roblox chat. Here's how to use it:
 
@@ -72,7 +72,7 @@ If you want a detailed keyboard shortcut guide, look to the '\_ahk-keyboard-guid
 
 
 
-3\. shortcut\_overlay.ahk
+**3\. shortcut\_overlay.ahk**
 
 This script is responsible for displaying an overlay at the right top corner of your screen that shows you all the keyboard shortcuts for 'terminology.ahk'. This can be useful to memorize the shortcuts in-game. A known con of this is that it may limit your vision of rebels a bit.
 
