@@ -50,5 +50,3 @@ F10::
         guideGui.Hide()
 }
 return
-
-Esc::ExitApp
